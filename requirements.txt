@@ -1,0 +1,3 @@
+# Dependências para C (LLVM/Clang Toolchain)
+llvm>=15.0.0
+clang-format>=15.0.0
